@@ -20,7 +20,7 @@ author: WhiteMech
 ###############################################
 
 navbar-links:
-  Home: "home"
+  Home: "index"
   Program: "program"
   Call for Papers: "call"
   Committee: "committee"
