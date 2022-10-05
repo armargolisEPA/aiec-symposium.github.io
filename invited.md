@@ -1,8 +1,8 @@
-----
+---
 
 title: Invited Speakers
 
-----
+---
 
 
 <ul role="list">
