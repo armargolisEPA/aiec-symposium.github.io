@@ -1,6 +1,6 @@
 ---
 
-title: Commitee
+title: Organizers
 
 ---
 
