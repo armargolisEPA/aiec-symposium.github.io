@@ -21,8 +21,9 @@ author: WhiteMech
 
 navbar-links:
   Home: "index"
-  Program: "program"
   Call for Papers: "call"
+  Invited Speakes: "invited"
+  #Program: "program"
   Committee: "committee"
 #  About Me: "aboutme"
 #  Resources:
