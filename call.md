@@ -1,8 +1,8 @@
------------
+---
 
-title: Call of papers
+title: Call of Papers
 
----------------
+---
 
 TDB
 
