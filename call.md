@@ -1,6 +1,6 @@
 ---
 
-title: Call of Papers
+title: Call for Partecipation
 
 ---
 
@@ -16,7 +16,6 @@ There will be no formal proceedings. Submissions should be uploaded via the AAAI
   <li> January 20, 2023: Paper submission deadline. </li> 
   <li> January 31, 2023: Author notification. </li>
 </ul>
-
 
 <h3>Topics</h3>
 Topics of interest range on any use of Temporal Logics on finite traces, including (but not limited to) the following areas:
