@@ -16,7 +16,6 @@ There will be no formal proceedings. Submissions should be uploaded via the AAAI
   <li> January 31, 2023: Author notification. </li>
 </ul>
 
-<br>
 
 <h3>Topics</h3>
 
