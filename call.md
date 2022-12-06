@@ -3,14 +3,13 @@
 title: Call of Papers
 
 ---
-<p>
+
+<p align="justify">
 We invite submissions for presentations, not papers. Submissions should have a single main author, and each author 
 can have no more than one submission. Each submission must be 1-2 pages long, including references (in AAAI style). 
 There will be no formal proceedings. Submissions should be uploaded via the AAAI SSS-23 
 <a href="https://easychair.org/conferences/?conf=sss23" target="_blank" > EasyChair site.</a>
 </p>
-<br>
-  
 
 <h3>Important Dates</h3>
 <ul>
@@ -20,7 +19,7 @@ There will be no formal proceedings. Submissions should be uploaded via the AAAI
 
 
 <h3>Topics</h3>
-<p>
+
 Topics of interest range on any use of Temporal Logics on finite traces, including (but not limited to) the following areas:
 
 
@@ -43,6 +42,6 @@ Topics of interest range on any use of Temporal Logics on finite traces, includi
   <li>Human computer interaction</li> 
   <li>Natural Language Processing</li> 
 </ul>
-</p>
+
 <br>
 
