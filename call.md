@@ -13,7 +13,7 @@ There will be no formal proceedings. Submissions should be uploaded via the AAAI
 <h3>Important Dates</h3>
 <ul>
   <li> January 20, 2023: Paper submission deadline. </li> 
-  <li> January 31, 2023:</li> Author notification.
+  <li> January 31, 2023: Author notification. </li>
 </ul>
 
 <br>
