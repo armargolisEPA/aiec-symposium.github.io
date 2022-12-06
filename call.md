@@ -7,7 +7,7 @@ title: Call of Papers
 We invite submissions for presentations, not papers. Submissions should have a single main author, and each author 
 can have no more than one submission. Each submission must be 1-2 pages long, including references (in AAAI style). 
 There will be no formal proceedings. Submissions should be uploaded via the AAAI SSS-23 
-<a href="https://easychair.org/conferences/?conf=sss23" > EasyChair site </a>.
+<a href="https://easychair.org/conferences/?conf=sss23" target="_blank" > EasyChair site </a>.
 <br>
 
 <h3>Important Dates</h3>
