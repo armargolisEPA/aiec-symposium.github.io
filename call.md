@@ -1,14 +1,15 @@
 ---
 
-title: Call of Papers
+title: Call for Partecipation
 
 ---
 
+<p align="justify">
 We invite submissions for presentations, not papers. Submissions should have a single main author, and each author 
 can have no more than one submission. Each submission must be 1-2 pages long, including references (in AAAI style). 
 There will be no formal proceedings. Submissions should be uploaded via the AAAI SSS-23 
 <a href="https://easychair.org/conferences/?conf=sss23" target="_blank" > EasyChair site.</a>
-<br>
+</p>
 
 <h3>Important Dates</h3>
 <ul>
@@ -16,12 +17,8 @@ There will be no formal proceedings. Submissions should be uploaded via the AAAI
   <li> January 31, 2023: Author notification (AoE). </li>
 </ul>
 
-
 <h3>Topics</h3>
-
 Topics of interest range on any use of Temporal Logics on finite traces, including (but not limited to) the following areas:
-
-
 <ul>
   <li>AI Planning</li> 
   <li>Verification and Synthesis</li> 
@@ -42,5 +39,5 @@ Topics of interest range on any use of Temporal Logics on finite traces, includi
   <li>Natural Language Processing</li> 
 </ul>
 
-<br>
+
 
