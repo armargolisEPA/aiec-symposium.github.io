@@ -18,6 +18,7 @@ There will be no formal proceedings. Submissions should be uploaded via the AAAI
 </ul>
 
 <h3>Topics</h3>
+
 Topics of interest range on any use of Temporal Logics on finite traces, including (but not limited to) the following areas:
 <ul>
   <li>AI Planning</li> 
