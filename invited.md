@@ -6,7 +6,7 @@ title: Invited Speakers
 
 
 <ul role="list">
-     <li><a href="https://www.cs.umd.edu/people/wcleavel">Rance Cleaveland</a>, University of Maryland, USA </li>
+    <!-- <li><a href="https://www.cs.umd.edu/people/wcleavel">Rance Cleaveland</a>, University of Maryland, USA </li>-->
     <li> <a href="http://www.diag.uniroma1.it//degiacom/">Giuseppe De Giacomo</a>, Sapienza University of Rome, Italy </li>    
   <!--  <li><a href="https://www.cs.toronto.edu/~sheila/">Shiela A. Mcilraith</a>, University of Toronto, Canada </li>
     <li><a href="https://www.unibz.it/it/faculties/computer-science/academic-staff/person/31326-marco-montali">Marco Montali</a>, University of Bolzano, Italy </li>
