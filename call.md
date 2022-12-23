@@ -12,7 +12,7 @@ title: Call for Partecipation
 <h3>Important Dates</h3>
 <ul>
   <li> January 30, 2023: Paper submission deadline (AoE). </li> 
-  <li> February 31, 2023: Author notification (AoE). </li>
+  <li> February 4, 2023: Author notification (AoE). </li>
 </ul>
 
 <h3>Topics</h3>
