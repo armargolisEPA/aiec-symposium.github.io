@@ -46,7 +46,7 @@ title: Program
       <td><b>Lunch Break</b></td>
     </tr>
     <tr style="background-color:#FEF2CB">
-      <td>14:00 - 15:30</td>
+      <td>14:00-15:30</td>
       <td><b>Session 3</b> - Chair</td>
     </tr>
     <tr style="background-color:#D8D8D8">
@@ -66,7 +66,7 @@ title: Program
         <td><b>Break</b></td>
     </tr>
     <tr style="background-color:#FEF2CB">
-        <td> </td>
+        <td>16:00-17:30</td>
         <td><b>Session 4  </b>- Chair</td>
     </tr>
     <tr>
