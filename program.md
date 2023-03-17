@@ -9,8 +9,8 @@ title: Program
 
 <h3>9:00 am - 10:30 am: Session 1  </h3>
 <ul role="list">
-    <li> <b>Invited Speaker</b><br>
-    	Giuseppe De Giacomo<br> Linear-time Temporal Logics on Finite Traces</li>
+    <li> <b>Invited Speaker:</b> Giuseppe De Giacomo <br>
+    	 Linear-time Temporal Logics on Finite Traces</li>
     <li>Ben Greenman: Little Tricky Logic: Misconceptions in the Understanding of LTL </li>
 
 </ul>
