@@ -110,7 +110,7 @@ of LTLf provides a solid, effective basis to elegantly solve a variety of centra
 </p>
 
 
-<h2 id="kristin">Invited Speaker: <em>a href="https://www.engineering.iastate.edu/people/profile/kyrozier/">Kristin Y. Rozier</a> </em></h2>
+<h2 id="kristin">Invited Speaker: <em><a href="https://www.engineering.iastate.edu/people/profile/kyrozier/">Kristin Y. Rozier</a> </em></h2>
 <p><img src="/assets/img/kristin.jpg" alt="kristin" class="img-responsive" style="max-width: 30%; float: left; border-radius: 3%; margin-right: 25px" /></p>
 
 <p style="text-align: justify">Professor Kristin Yvonne Rozier heads the Laboratory for Temporal Logic in Aerospace 
@@ -142,7 +142,7 @@ in analyzing MLTL, explain the motivation driving these developments, and point 
 there are needs for future work.</p>
 
 <h2 id="ufuk">Invited Speaker: <em><a href="https://www.ae.utexas.edu/people/faculty/faculty-directory/topcu">Ufuk Topcu</a> </em></h2>
-<p><img src="/assets/img/ufuk.jpg" alt="ufuk" class="img-responsive" style="max-width: 30%; float: left; border-radius: 3%; margin-right: 25px" /></p>
+<p><img src="/assets/img/ufuk.jpg" alt="ufuk" class="img-responsive" style="max-width: 40%; float: left; border-radius: 3%; margin-right: 25px" /></p>
 
 <p style="text-align: justify">Ufuk Topcu is an Associate Professor in the Department of Aerospace Engineerin at 
 The University of Texas at Austin, where he directs the Autonomos Systems Group. Ufuk’s research focuses on the 
@@ -163,7 +163,7 @@ task knowledge from a brief natural-language description of the task goal. I wil
 be integrated with formal verification and task-guided reinforcement learning. </p>
 
 <h2 id="moshe">Invited Speaker: <em><a href="https://www.cs.rice.edu/~vardi/">Moshe Vardi</a> </em></h2>
-<p><img src="/assets/img/moshe.jpg" alt="ufuk" class="img-responsive" style="max-width: 30%; float: left; border-radius: 3%; margin-right: 25px" /></p>
+<p><img src="/assets/img/moshe.jpg" alt="ufuk" class="img-responsive" style="max-width: 40%; float: left; border-radius: 3%; margin-right: 25px" /></p>
 
 <p style="text-align: justify">Moshe Y. Vardi is a University Professor, and the George Distinguished Service 
 Professor in Computational Engineering at Rice University.  He is the author and co-author of over 700 papers, 
