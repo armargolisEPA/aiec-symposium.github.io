@@ -31,7 +31,6 @@ This work is joint with Sam Huang.
 </p>
 
 
-
 <h2 id="degiacomo">Invited Speaker: <em>Giuseppe De Giacomo</em></h2>
 <p><img src="/assets/img/degiacomo.jpeg" alt="degiacomo" class="img-responsive" style="max-width: 35%; float: left; border-radius: 3%; margin-right: 25px" /></p>
 
@@ -79,6 +78,20 @@ can be used as the computational core for a diverse set of tasks from web servic
 goal recognition, automated diagnosis, and reactive synthesis. I’ll conclude with a brief discussion of how some of these 
 same insights have been repurposed in the context of reinforcement learning, solving problems that otherwise could not be solved.</p>
 
+<h2 id="sheila">Invited Speaker: <em>Marco Montali </em></h2>
+<p><img src="/assets/img/marco.png" alt="degiacomo" class="img-responsive" style="max-width: 40%; float: left; border-radius: 3%; margin-right: 25px" /></p>
+
+<p style="text-align: justify">Marco Montali is Full Professor in the Faculty of Engineering at the Free University of Bozen-Bolzano, Italy, where he also coordinates the MSc Program in Computational Data Science.  The Leitmotiv of his research is to develop novel, foundational and applied techniques grounded in artificial intelligence, formal methods, and data science to create intelligent agents and information systems that combine processes and data. 
+He has served as PC Chair of BPM 2018, RuleML+RR 2019, ICPM 2020, and CBI 2021, as General Chair of ICPM 2022 and EDOC 2022, and is steering committee member of the IEEE task force on process mining. He is co-author of more than 250 papers and recipient of 10 best paper awards and 2 test-of-time awards. He received the 2015 “Marco Somalvico” award, given by the Italian Association of Artificial Intelligence to the best under 35 Italian researcher advancing the state-of-the-art in artificial intelligence.
+
+</p>
+
+<h3 style="text-align: justify" id="keynote-abstract---download-slides">Automated Planning with LTL: Techniques, Advances, and its Broad Applicability
+</h3>
+<p>Business process management (BPM) is a discipline at the intersection between operations management, computer science, and software and systems engineering, whose grand goal is to support managers, analysts, and domain experts in the design, deployment, enactment, and continuous improvement of (work) processes within an organisation.  While processes are traditionally managed in a top-down manner, process mining techniques are revolusionatising BPM, making it possible to automatically discover process models, check conformance between expected and actual executions, monitor and formulate predictions, and ultimately continuously improve processes based on the factual event data recorded inside information systems.
+
+In this talk, we focus on the widespread class of knowledge-intensive processes, which challenge the foundations of BPM and process mining, due to their inherent flexibility. We argue that such processes cannot be satisfactory modelled nor understood using conventional, procedural process modelling languages, but are instead best captured using a declarative approach based on temporal constraints. We ground our discussion on one of the most prominent languages in the declarative BPM spectrum: Declare. We show that Declare is naturally formalised in LTLf, and explain how the automata-theoretic characterisation of LTLf provides a solid, effective basis to elegantly solve a variety of central BPM/process mining tasks: model verification, enactment, anticipatory monitoring, and process discovery. In doing so, we touch on interesting recent extensions of LTLf dealing with data and uncertainty.
+</p>
 
 
 
