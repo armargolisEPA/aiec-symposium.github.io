@@ -54,12 +54,36 @@ the main results on Reasoning, Verification, and Synthesis. The talk will also d
 Non-Markovin Decision Processes, Reinforcement Learning, and BPM Declarative Process Modeling, that will then be elaborated 
 on in separate talks by workshop participants.</p>
 
+<h2 id="sheila">Invited Speaker: <em>Sheila McIlraith </em></h2>
+<p><img src="/assets/img/sheila.jpg" alt="degiacomo" class="img-responsive" style="max-width: 40%; float: left; border-radius: 3%; margin-right: 25px" /></p>
+
+<p style="text-align: justify">Sheila McIlraith is a Professor in the Department of Computer Science at the University 
+of Toronto, a Canada CIFAR AI Chair (Vector Institute), and an Associate Director at the Schwartz Reisman Institute for 
+Technology and Society. Prior to joining U of T, McIlraith spent six years as a Research Scientist at Stanford University, 
+and one year at Xerox PARC. McIlraith’s research is in the area of AI knowledge representation and reasoning, and machine 
+learning where she currently studies sequential decision-making, broadly construed, with a focus on human-compatible AI. 
+McIlraith is a Fellow of the ACM and the Association for the Advancement of Artificial Intelligence (AAAI). She and co-authors 
+have been recognized with two test-of-time awards from the International Semantic Web Conference (ISWC) in 2011, and from the 
+International Conference on Automated Planning and Scheduling (ICAPS) in 2022.</p>
+
+<h3 style="text-align: justify" id="keynote-abstract---download-slides">Automated Planning with LTL: Techniques, Advances, and its Broad Applicability
+</h3>
+<p>Given a description of the dynamics of an environment, the initial state of the world, and a goal condition, 
+automated symbolic planning generates a plan – typically a sequence of actions – that, when executed starting in the 
+initial state, achieves the goal condition. Over the last 20+ years, research in automated planning has resulted in 
+highly efficient algorithms for plan generation under varying models of the environment and goal conditions. 
+In this talk, I’ll briefly review this literature, focusing on techniques for planning with temporally extended goals 
+expressed in syntactic variants of LTL and regular expressions, interpreted over finite or infinite traces.  
+I’ll show how planning in deterministic or nondeterministic systems with such temporally extended goals (or preferences) 
+can be used as the computational core for a diverse set of tasks from web service composition to narrative understanding, 
+goal recognition, automated diagnosis, and reactive synthesis. I’ll conclude with a brief discussion of how some of these 
+same insights have been repurposed in the context of reinforcement learning, solving problems that otherwise could not be solved.</p>
+
+
 
 
 <ul role="list">
-    <li><a href="https://www.cs.umd.edu/people/wcleavel">Rance Cleaveland</a>, University of Maryland, USA </li>
-    <li> <a href="https://www.diag.uniroma1.it//degiacom/">Giuseppe De Giacomo</a>, University of Oxford & Sapienza University of Rome </li>   
-  <!--  <li><a href="https://www.cs.rice.edu/~kavraki/">Lydia Kavraki</a>, Rice University, Houston, TX, USA </li>-->
+      
    <li><a href="https://www.cs.toronto.edu/~sheila/">Sheila A. Mcilraith</a>, University of Toronto, Canada </li>
     <li><a href="http://www.inf.unibz.it/~montali/">Marco Montali</a>, University of Bolzano, Italy </li>
     <li><a href="https://www.engineering.iastate.edu/people/profile/kyrozier/">Kristin Y. Rozier</a>, Iowa State University, USA </li>
