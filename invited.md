@@ -33,7 +33,7 @@ This work is joint with Sam Huang.
 
 
 <h2 id="degiacomo">Invited Speaker: <em>Giuseppe De Giacomo</em></h2>
-<p><img src="/assets/img/degiacomo.jpeg" alt="degiacomo" class="img-responsive" style="max-width: 40%; float: left; border-radius: 3%; margin-right: 25px" /></p>
+<p><img src="/assets/img/degiacomo.jpeg" alt="degiacomo" class="img-responsive" style="max-width: 35%; float: left; border-radius: 3%; margin-right: 25px" /></p>
 
 <p style="text-align: justify">Giuseppe De Giacomo is currently a Professor of Computer Science at the Department of 
 Computer Science of the University of Oxford. For several years he has been a professor at the Department of Computer, 
@@ -84,7 +84,6 @@ same insights have been repurposed in the context of reinforcement learning, sol
 
 <ul role="list">
       
-   <li><a href="https://www.cs.toronto.edu/~sheila/">Sheila A. Mcilraith</a>, University of Toronto, Canada </li>
     <li><a href="http://www.inf.unibz.it/~montali/">Marco Montali</a>, University of Bolzano, Italy </li>
     <li><a href="https://www.engineering.iastate.edu/people/profile/kyrozier/">Kristin Y. Rozier</a>, Iowa State University, USA </li>
     <li><a href="https://www.ae.utexas.edu/people/faculty/faculty-directory/topcu">Ufuk Topcu</a>, University of Texas at Austin, TX, USA </li>  
