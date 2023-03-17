@@ -3,8 +3,6 @@
 title: Program
 
 ---
-
-
 <table style="font-size:80%">
   <tbody>
     <tr style="background-color:#FEF2CB">
@@ -53,64 +51,58 @@ title: Program
     </tr>
     <tr style="background-color:#D8D8D8">
       <td>Invited Speaker</td>
-      <td><b> Sheila McIlraith: <em>Automated Planning with LTL: Techniques, Advances, and its Broad Applicability
-</em></b></td>
-<tr>
-<td></td>
-<td>Albertao Camacho: <em>Temporal Logic Goal Specifications for Automated Planning </em></td>
-</tr>
-<tr>
-<td></td>
-<td>Toryn Q. Klassen:  <em>LTL and Beyond: Formal Languages for Reward Function Specification in Reinforcement Learning 	 </em></td>
-</tr>
-<tr style="background-color:#D8D8D8">
-<td>15:30  - 16:00</td>
-<td><b>Break</b></td>
-</tr>
-<tr style="background-color:#FEF2CB">
-<td> </td>
-<td><b>Session 4  </b>- Chair</td>
-</tr>
-<tr>
-<td></td>
-<td>Rodrigo Toro Icarte: <em> Learning Reward Machines for Partially Observable Reinforcement Learning </em></td>
-</tr>
-<tr>
-<td></td>
-<td>Pashootan Vaezipoor:<em> LTL2Action: Generalizing LTL Instructions for Multi-Task RL/em> </em></td>
-</tr>
-<tr>
-<td></td>
-<td>Andrew Li: <em> Learning to Follow Instructions in Text-Based Games </em></td>
-</tr>
-<tr>
-<td></td>
-<td>Luciana Silo:<em> Planning for LTLf Goals in Presence of Uncertainty on the Initial State
-</em></td>
-</tr>
-<tr>
-<td></td>
-<td>Anneline Daggelinckx: <em> Verifying Planning Sketches in CTL*f
-</em></td>
-</tr>
-</tr>
-<tr>
-<td></td>
-<td>Francesco Fuggitti: <em>  Planning for Pure-Past Linear Temporal Goals </em></td>
-</tr>
-</tr>
-<tr>
-<td></td>
-<td>Songtuan Lin: <em> Comparing the Expressivity of STRIPS Planning with Finite-LTL vs. LTL
-</em></td>
-</tr>
-<tr>
-<td>20 minutes</td>
-<td> <em> Poster Session </em></td>
-</tr>
-<tr style="background-color:#D8D8D8">
-      <td>18:00-19:00</td>
-      <td><b>Reception</b></td>
+      <td><b> Sheila McIlraith: <em>Automated Planning with LTL: Techniques, Advances, and its Broad Applicability </em></b></td>
+    <tr>
+        <td></td>
+        <td>Albertao Camacho: <em>Temporal Logic Goal Specifications for Automated Planning </em></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Toryn Q. Klassen:  <em>LTL and Beyond: Formal Languages for Reward Function Specification in Reinforcement Learning 	 </em></td>
+    </tr>
+    <tr style="background-color:#D8D8D8">
+        <td>15:30-16:00</td>
+        <td><b>Break</b></td>
+    </tr>
+    <tr style="background-color:#FEF2CB">
+        <td> </td>
+        <td><b>Session 4  </b>- Chair</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Rodrigo Toro Icarte: <em> Learning Reward Machines for Partially Observable Reinforcement Learning </em></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Pashootan Vaezipoor:<em> LTL2Action: Generalizing LTL Instructions for Multi-Task RL/em> </em></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Andrew Li: <em> Learning to Follow Instructions in Text-Based Games </em></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Luciana Silo:<em> Planning for LTLf Goals in Presence of Uncertainty on the Initial State </em></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Anneline Daggelinckx: <em> Verifying Planning Sketches in CTL*f</em></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Francesco Fuggitti: <em>  Planning for Pure-Past Linear Temporal Goals </em></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Songtuan Lin: <em> Comparing the Expressivity of STRIPS Planning with Finite-LTL vs. LTL</em></td>
+    </tr>
+    <tr>
+        <td>20 minutes</td>
+        <td> <em> Poster Session </em></td>
+    </tr>
+    <tr style="background-color:#D8D8D8">
+        <td>18:00-19:00</td>
+        <td><b>Reception</b></td>
     </tr>
   </tbody>
 </table>
