@@ -54,7 +54,7 @@ Non-Markovin Decision Processes, Reinforcement Learning, and BPM Declarative Pro
 on in separate talks by workshop participants.</p>
 
 <h2 id="sheila">Invited Speaker: <em><a href="https://www.cs.toronto.edu/~sheila/">Sheila McIlraith </a></em></h2>
-<p><img src="/assets/img/sheila.jpg" alt="degiacomo" class="img-responsive" style="max-width: 40%; float: left; border-radius: 3%; margin-right: 25px" /></p>
+<p><img src="/assets/img/sheila.jpg" alt="degiacomo" class="img-responsive" style="max-width: 43%; float: left; border-radius: 3%; margin-right: 25px" /></p>
 
 <p style="text-align: justify">Sheila McIlraith is a Professor in the Department of Computer Science at the University 
 of Toronto, a Canada CIFAR AI Chair (Vector Institute), and an Associate Director at the Schwartz Reisman Institute for 
