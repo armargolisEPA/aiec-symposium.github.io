@@ -108,7 +108,3 @@ title: Program
 </table>
 
 
-
-<h1>March 28</h1>
-
-<h1>March 29</h1>
