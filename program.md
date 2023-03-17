@@ -77,7 +77,7 @@ title: Program
     </tr>
     <tr>
         <td></td>
-        <td>Pashootan Vaezipoor:<em> LTL2Action: Generalizing LTL Instructions for Multi-Task RL/em> </em></td>
+        <td>Pashootan Vaezipoor:<em> LTL2Action: Generalizing LTL Instructions for Multi-Task RL</em></td>
     </tr>
     <tr>
         <td></td>
@@ -226,6 +226,61 @@ title: Program
         <tr style="background-color:#D8D8D8">
         <td>18:00-19:30</td>
         <td><b>Plenary Session (SSS)</b></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>March 29, Day 3</h2>
+
+<table style="font-size:80%">
+  <tbody>
+    <tr style="background-color:#FEF2CB">
+      <td>9:00  - 10:30   </td>
+      <td><b>Session 9</b> - Chair:</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Nicola Gigante: <em>Linear Temporal Logic Modulo Theories over Finite Traces</em></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Eugenia Ternovska: <em>An Algebraic Logic of Partial Functions on Finite Traces</em></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Giacomo Bergami: <em>KnoBAB: Making Logic Fast</em></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Francesco Chiariello: <em>Discovering Deterministic Finite State Automata from Event Logs for Business Process Analysis</em></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Andrea Mazzullo: <em>On the Effectiveness of Finite Traces in First-order Temporal Logic</em></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Nima Motamed: <em>Probabilistic Temporal Logic for Reasoning about Bounded Policies</em></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Yotam Amitai: <em>ASQ-IT: Interactive Explanations for Reinforcement-Learning Agents</em></td>
+    </tr>
+    <tr style="background-color:#D8D8D8">
+      <td>10:30  - 11:00</td>
+      <td><b>Break</b></td>
+    </tr>
+    <tr style="background-color:#FEF2CB">
+      <td> 11:00-12:30</td>
+      <td><b>Session 10</b> - Chair:</td>
+    </tr>
+    <tr style="background-color:#D8D8D8">
+      <td>Invited Speaker</td>
+      <td><b>  Moshe Vardi : <em>From Infinite to Finite Horizons </em></b></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Closing remarks, including results of LTLf experiments (Ben Greenman) </td>
     </tr>
   </tbody>
 </table>
