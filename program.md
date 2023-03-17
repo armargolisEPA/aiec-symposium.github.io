@@ -52,13 +52,14 @@ title: Program
     <tr style="background-color:#D8D8D8">
       <td>Invited Speaker</td>
       <td><b> Sheila McIlraith: <em>Automated Planning with LTL: Techniques, Advances, and its Broad Applicability </em></b></td>
+    </tr>
     <tr>
         <td></td>
         <td>Albertao Camacho: <em>Temporal Logic Goal Specifications for Automated Planning </em></td>
     </tr>
     <tr>
         <td></td>
-        <td>Toryn Q. Klassen:  <em>LTL and Beyond: Formal Languages for Reward Function Specification in Reinforcement Learning 	 </em></td>
+        <td>Toryn Q. Klassen:  <em>LTL and Beyond: Formal Languages for Reward Function Specification in Reinforcement Learning </em></td>
     </tr>
     <tr style="background-color:#D8D8D8">
         <td>15:30-16:00</td>
