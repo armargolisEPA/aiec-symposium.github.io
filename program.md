@@ -165,7 +165,7 @@ title: Program
     </tr>
         <tr style="background-color:#FEF2CB">
         <td>14:00-15:30</td>
-        <td><b>Session 7</b> - Chair</td>
+        <td><b>Session 7</b> - Chair:</td>
     </tr>
     <tr style="background-color:#B0C4DE">
         <td>Invited Speaker</td>
@@ -189,7 +189,7 @@ title: Program
     </tr>
         <tr style="background-color:#FEF2CB">
         <td>16:00-17:30</td>
-        <td><b>Session 8  </b>- Chair</td>
+        <td><b>Session 8  </b>- Chair:</td>
     </tr>
     <tr>
         <td></td>
