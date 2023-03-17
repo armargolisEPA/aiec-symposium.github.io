@@ -93,7 +93,7 @@ the state-of-the-art in artificial intelligence.
 
 </p>
 
-<h3 style="text-align: justify" id="keynote-abstract---download-slides">Declarative process management and mining: a killer application for LTLf
+<h3 style="text-align: justify" id="keynote-abstract---download-slides">Declarative Process Management and mining: A Killer Application for LTLf
 </h3>
 <p>Business process management (BPM) is a discipline at the intersection between operations management, computer science, 
 and software and systems engineering, whose grand goal is to support managers, analysts, and domain experts in the design, 
