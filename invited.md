@@ -110,7 +110,7 @@ of LTLf provides a solid, effective basis to elegantly solve a variety of centra
 </p>
 
 
-<h2 id="kristin">Invited Speaker: <em><a href="https://www.engineering.iastate.edu/people/profile/kyrozier/">Kristin Y. Rozier</a> </em></h2>
+<h2 id="kristin">Invited Speaker: <em><a href="https://www.engineering.iastate.edu/people/profile/kyrozier/">Kristin Yvonne Rozier/a> </em></h2>
 <p><img src="/assets/img/kristin.jpg" alt="kristin" class="img-responsive" style="max-width: 33%; float: left; border-radius: 3%; margin-right: 25px" /></p>
 
 <p style="text-align: justify">Professor Kristin Yvonne Rozier heads the Laboratory for Temporal Logic in Aerospace 
