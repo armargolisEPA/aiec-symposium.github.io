@@ -4,6 +4,7 @@ title: Program
 
 ---
 <h2>March 27, Day 1</h2>
+
 <table style="font-size:80%">
   <tbody>
     <tr style="background-color:#FEF2CB">
@@ -108,5 +109,126 @@ title: Program
     </tr>
   </tbody>
 </table>
+
+<h2>March 28, Day 2</h2>
+
+<table style="font-size:80%">
+  <tbody>
+    <tr style="background-color:#FEF2CB">
+      <td>9:00  - 10:30   </td>
+      <td><b>Session 5</b> - Chair:</td>
+    </tr>
+    <tr style="background-color:#D8D8D8">
+      <td>Invited Speaker</td>
+      <td><b> Kristin Rozier: <em>On the Effectiveness of Mission-time Linear Temporal Logic (MLTL) in AI Applications 
+</em></b></td>
+    </tr>
+    <tr>
+      <td>10 minutes</td>
+      <td>Break  </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Suguman Bansal: <em>Model Checking Linear Temporal Logic over Finite Traces </em></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Linus Cooper: <em>Checking Markov Chains against Alternating Finite-Word Automata Specifications</em></td>
+    </tr>
+    <tr style="background-color:#D8D8D8">
+      <td>10:30  - 11:00</td>
+      <td><b>Break</b></td>
+    </tr>
+    <tr style="background-color:#FEF2CB">
+      <td> 11:00-12:30</td>
+      <td><b>Session 6</b> - Chair:</td>
+    </tr>
+    <tr style="background-color:#D8D8D8">
+      <td>Invited Speaker</td>
+      <td><b>  Rance Cleaveland : <em>Query-Checking for Finite Linear-Time Temporal Logic</em></b></td>
+    </tr>
+    <tr>
+      <td>10 minutes</td>
+      <td>Break </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Torsten Schaub: <em> Towards Temporal, Dynamic, and Metric Answer Set Programming over Linear Finite Traces</em></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Francesco Chiariello:<em> Temporal Reasoning in ASP and its Application to Declarative Process Mining</em></td>
+    </tr>
+        <tr style="background-color:#D8D8D8">
+        <td>12:30-14:00</td>
+        <td><b>Lunch Break</b></td>
+    </tr>
+        <tr style="background-color:#FEF2CB">
+        <td>14:00-15:30</td>
+        <td><b>Session 7</b> - Chair</td>
+    </tr>
+    <tr style="background-color:#D8D8D8">
+        <td>Invited Speaker</td>
+        <td><b> Ufuk Topcu: <em>Automaton-Based Representations of Task Knowledge from Generative Language Models</em></b></td>
+    </tr>
+    <tr>
+        <td>10 minutes</td>
+        <td>Break </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Ankit Shah: <em> LTL-Transfer: Skill Transfer for Temporally-Extended Task Specifications</em></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Elena Umili:  <em>Grounding LTLf Specifications in Image Sequences</em></td>
+    </tr>
+    <tr style="background-color:#D8D8D8">
+        <td>15:30-16:00</td>
+        <td><b>Break</b></td>
+    </tr>
+        <tr style="background-color:#FEF2CB">
+        <td>16:00-17:30</td>
+        <td><b>Session 8  </b>- Chair</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Yves Lespérance: <em> On LTLf Synthesis and Goal Formation/Revision </em></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Senthil Rajasekaran:<em> Verification and Realizability in Finite-Horizon Multiagent Systems </em></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Gianmarco Parretti: <em> LTLf Best-Effort Synthesis in Nondeterministic Domains</em></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Lucas Martinelli Tabajara:<em> LTLf Synthesis under Partial Observability: From Theory to Practice</em></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Luca Geatti: <em>  Reactive Synthesis for DECLARE Process Models</em></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Jianwen Li: <em>  A Journey from LTLf Satisfiability to Synthesis</em></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Marco Favorito: <em>  Compositional LTLf /LDLf Synthesis</em></td>
+    </tr>
+    <tr>
+        <td>20 minutes</td>
+        <td> <em> Poster Session </em></td>
+    </tr>
+        <tr style="background-color:#D8D8D8">
+        <td>18:00-19:30</td>
+        <td><b>Plenary Session (SSS)</b></td>
+    </tr>
+  </tbody>
+</table>
+
 
 
