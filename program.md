@@ -6,8 +6,8 @@ title: Program
 
 <h1>March 27</h1>
 
-<h2> Session 1</h2>
-<h3>9:00 am - 10:30 am </h3>
+<h3> Session 1</h3>
+<h4>9:00 am - 10:30 am </h4>
 <ul role="list">
     
 </ul>
