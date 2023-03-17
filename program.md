@@ -7,9 +7,10 @@ title: Program
 <h1>March 27</h1>
 
 
-<h3>9:00 am - 10:30 am: Session 1  </h3>
+<h3>9:00 am - 10:30 am: Session 1  </h3><li> 
 <ul role="list">
-    <li> Invited Speaker: Giuseppe De Giacomo </li>
+    <li> <b>Invited Speaker</b><br>
+    	Giuseppe De Giacomo: Linear-time Temporal Logics on Finite Traces</li>
     <li>Ben Greenman: LTLf Test </li>
 
 </ul>
