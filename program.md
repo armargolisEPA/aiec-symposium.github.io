@@ -32,8 +32,8 @@ title: Program
       <td><b> Marco Montali: <em>Declarative process management and mining: a killer application for LTLf</em></b></td>
     </tr>
     <tr>
-      <td></td>
-      <td>Break - 10 minutes</td>
+      <td>10 minutes</td>
+      <td>Break  </td>
     </tr>
     <tr>
       <td></td>
