@@ -111,7 +111,7 @@ of LTLf provides a solid, effective basis to elegantly solve a variety of centra
 
 
 <h2 id="kristin">Invited Speaker: <em><a href="https://www.engineering.iastate.edu/people/profile/kyrozier/">Kristin Y. Rozier</a> </em></h2>
-<p><img src="/assets/img/kristin.jpg" alt="kristin" class="img-responsive" style="max-width: 30%; float: left; border-radius: 3%; margin-right: 25px" /></p>
+<p><img src="/assets/img/kristin.jpg" alt="kristin" class="img-responsive" style="max-width: 40%; float: left; border-radius: 3%; margin-right: 25px" /></p>
 
 <p style="text-align: justify">Professor Kristin Yvonne Rozier heads the Laboratory for Temporal Logic in Aerospace 
 Engineering at Iowa State University; previously she spent 14 years as a Research Scientist at NASA and three semesters 
@@ -163,7 +163,7 @@ task knowledge from a brief natural-language description of the task goal. I wil
 be integrated with formal verification and task-guided reinforcement learning. </p>
 
 <h2 id="moshe">Invited Speaker: <em><a href="https://www.cs.rice.edu/~vardi/">Moshe Vardi</a> </em></h2>
-<p><img src="/assets/img/moshe.jpg" alt="ufuk" class="img-responsive" style="max-width: 40%; float: left; border-radius: 3%; margin-right: 25px" /></p>
+<p><img src="/assets/img/moshe.jpg" alt="ufuk" class="img-responsive" style="max-width: 35%; float: left; border-radius: 3%; margin-right: 25px" /></p>
 
 <p style="text-align: justify">Moshe Y. Vardi is a University Professor, and the George Distinguished Service 
 Professor in Computational Engineering at Rice University.  He is the author and co-author of over 700 papers, 
