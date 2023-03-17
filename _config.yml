@@ -23,7 +23,7 @@ navbar-links:
   Home: "index"
   Call for Participation: "call"
   Invited Speakers: "invited"
-  #Program: "program"
+  Program: "program"
   Committee: "committee"
 #  About Me: "aboutme"
 #  Resources:
