@@ -79,7 +79,7 @@ goal recognition, automated diagnosis, and reactive synthesis. I’ll conclude w
 same insights have been repurposed in the context of reinforcement learning, solving problems that otherwise could not be solved.</p>
 
 <h2 id="sheila">Invited Speaker: <em>Marco Montali </em></h2>
-<p><img src="/assets/img/marco.png" alt="degiacomo" class="img-responsive" style="max-width: 40%; float: left; border-radius: 3%; margin-right: 25px" /></p>
+<p><img src="/assets/img/marco.png" alt="degiacomo" class="img-responsive" style="max-width: 30%; float: left; border-radius: 3%; margin-right: 25px" /></p>
 
 <p style="text-align: justify">Marco Montali is Full Professor in the Faculty of Engineering at the Free University of Bozen-Bolzano, Italy, where he also coordinates the MSc Program in Computational Data Science.  The Leitmotiv of his research is to develop novel, foundational and applied techniques grounded in artificial intelligence, formal methods, and data science to create intelligent agents and information systems that combine processes and data. 
 He has served as PC Chair of BPM 2018, RuleML+RR 2019, ICPM 2020, and CBI 2021, as General Chair of ICPM 2022 and EDOC 2022, and is steering committee member of the IEEE task force on process mining. He is co-author of more than 250 papers and recipient of 10 best paper awards and 2 test-of-time awards. He received the 2015 “Marco Somalvico” award, given by the Italian Association of Artificial Intelligence to the best under 35 Italian researcher advancing the state-of-the-art in artificial intelligence.
