@@ -267,7 +267,7 @@ title: Program
         <td>Yotam Amitai: <em>ASQ-IT: Interactive Explanations for Reinforcement-Learning Agents</em></td>
     </tr>
     <tr style="background-color:#D8D8D8">
-      <td>10:30  - 11:00</td>
+      <td>10:30-11:00</td>
       <td><b>Break</b></td>
     </tr>
     <tr style="background-color:#FEF2CB">
