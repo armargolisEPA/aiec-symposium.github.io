@@ -8,7 +8,7 @@ title: Program
 <table style="font-size:80%">
   <tbody>
     <tr style="background-color:#FEF2CB">
-      <td>9:00  - 10:30   </td>
+      <td>9:00-10:30   </td>
       <td><b>Session 1</b> - Chair:</td>
     </tr>
     <tr style="background-color:#D8D8D8">
@@ -20,11 +20,11 @@ title: Program
       <td>Ben Greenman: <em>Little Tricky Logic: Misconceptions in the Understanding of LTL </em></td>
     </tr>
     <tr style="background-color:#D8D8D8">
-      <td>10:30  - 11:00</td>
+      <td>10:30-11:00</td>
       <td><b>Break</b></td>
     </tr>
     <tr style="background-color:#FEF2CB">
-      <td> </td>
+      <td>11:00-12:30</td>
       <td><b>Session 2</b> - Chair:</td>
     </tr>
     <tr style="background-color:#D8D8D8">
