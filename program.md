@@ -11,7 +11,7 @@ title: Program
       <td>9:00-10:30   </td>
       <td><b>Session 1</b> - Chair:</td>
     </tr>
-    <tr style="background-color:#D8D8D8">
+    <tr style="background-color:#B0C4DE">
       <td>Invited Speaker</td>
       <td><b> Giuseppe De Giacomo: <em>Linear-time Temporal Logics on Finite Traces</em></b></td>
     </tr>
@@ -27,7 +27,7 @@ title: Program
       <td>11:00-12:30</td>
       <td><b>Session 2</b> - Chair:</td>
     </tr>
-    <tr style="background-color:#D8D8D8">
+    <tr style="background-color:#B0C4DE">
       <td>Invited Speaker</td>
       <td><b> Marco Montali: <em>Declarative process management and mining: a killer application for LTLf</em></b></td>
     </tr>
@@ -51,7 +51,7 @@ title: Program
       <td>14:00-15:30</td>
       <td><b>Session 3</b> - Chair</td>
     </tr>
-    <tr style="background-color:#D8D8D8">
+    <tr style="background-color:#B0C4DE">
       <td>Invited Speaker</td>
       <td><b> Sheila McIlraith: <em>Automated Planning with LTL: Techniques, Advances, and its Broad Applicability </em></b></td>
     </tr>
@@ -118,7 +118,7 @@ title: Program
       <td>9:00  - 10:30   </td>
       <td><b>Session 5</b> - Chair:</td>
     </tr>
-    <tr style="background-color:#D8D8D8">
+    <tr style="background-color:#B0C4DE">
       <td>Invited Speaker</td>
       <td><b> Kristin Rozier: <em>On the Effectiveness of Mission-time Linear Temporal Logic (MLTL) in AI Applications 
 </em></b></td>
@@ -143,7 +143,7 @@ title: Program
       <td> 11:00-12:30</td>
       <td><b>Session 6</b> - Chair:</td>
     </tr>
-    <tr style="background-color:#D8D8D8">
+    <tr style="background-color:#B0C4DE">
       <td>Invited Speaker</td>
       <td><b>  Rance Cleaveland : <em>Query-Checking for Finite Linear-Time Temporal Logic</em></b></td>
     </tr>
@@ -167,7 +167,7 @@ title: Program
         <td>14:00-15:30</td>
         <td><b>Session 7</b> - Chair</td>
     </tr>
-    <tr style="background-color:#D8D8D8">
+    <tr style="background-color:#B0C4DE">
         <td>Invited Speaker</td>
         <td><b> Ufuk Topcu: <em>Automaton-Based Representations of Task Knowledge from Generative Language Models</em></b></td>
     </tr>
@@ -274,7 +274,7 @@ title: Program
       <td> 11:00-12:30</td>
       <td><b>Session 10</b> - Chair:</td>
     </tr>
-    <tr style="background-color:#D8D8D8">
+    <tr style="background-color:#B0C4DE">
       <td>Invited Speaker</td>
       <td><b>  Moshe Vardi : <em>From Infinite to Finite Horizons </em></b></td>
     </tr>
