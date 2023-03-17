@@ -15,7 +15,7 @@ specification formalisms, and verification tools.  Cleaveland received B.S. degr
 from Duke University, and M.S. and Ph.D. degrees from Cornell University.  He is a Fellow of the IEEE and recently finished 
 a four-year stint as Division Director of Computing and Communication Foundations at the US National Science Foundation.</p>
 
-<h3 style="text-align: justify" id="keynote-abstract---download-slides">Query-Checking for Finite Linear-Time Temporal Logic</h3>
+<h3 style="text-align: justify" id="keynote-abstract---download-slides">Query-Checking for Finite Linear-time Temporal Logic</h3>
 
 <p>This talk addresses the following problem:  given a finite set of observations of system behavior, each observation 
 itself being a finite sequence of system states, and a query consisting of a Finite Linear-Time Temporal Logic (LTL) 

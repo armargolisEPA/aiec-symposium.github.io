@@ -145,7 +145,7 @@ title: Program
     </tr>
     <tr style="background-color:#B0C4DE">
       <td>Invited Speaker</td>
-      <td><b>  Rance Cleaveland : <em>Query-Checking for Finite Linear-Time Temporal Logic</em></b></td>
+      <td><b>  Rance Cleaveland : <em>Query-Checking for Finite Linear-time Temporal Logic</em></b></td>
     </tr>
     <tr>
       <td>10 minutes</td>
