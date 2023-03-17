@@ -11,7 +11,7 @@ title: Program
 <ul role="list">
     <li> <b>Invited Speaker</b><br>
     	Giuseppe De Giacomo: Linear-time Temporal Logics on Finite Traces</li>
-    <li>Ben Greenman: LTLf Test </li>
+    <li>Ben Greenman: Little Tricky Logic: Misconceptions in the Understanding of LTL </li>
 
 </ul>
 
