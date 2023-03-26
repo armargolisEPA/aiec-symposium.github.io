@@ -56,6 +56,10 @@ title: Program
       <td><b> Sheila McIlraith: <em>Automated Planning with LTL: Techniques, Advances, and its Broad Applicability </em></b></td>
     </tr>
     <tr>
+      <td>10 minutes</td>
+      <td>Break  </td>
+    </tr>
+    <tr>
         <td></td>
         <td>Albertao Camacho: <em>Temporal Logic Goal Specifications for Automated Planning </em></td>
     </tr>
