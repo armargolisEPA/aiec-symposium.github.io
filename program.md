@@ -9,7 +9,7 @@ title: Program
   <tbody>
     <tr style="background-color:#FEF2CB">
       <td>9:00-10:30   </td>
-      <td><b>Session 1</b> - Chair:</td>
+      <td><b>Session 1</b> </td>
     </tr>
     <tr style="background-color:#B0C4DE">
       <td>Invited Speaker</td>
@@ -25,7 +25,7 @@ title: Program
     </tr>
     <tr style="background-color:#FEF2CB">
       <td>11:00-12:30</td>
-      <td><b>Session 2</b> - Chair:</td>
+      <td><b>Session 2</b> </td>
     </tr>
     <tr style="background-color:#B0C4DE">
       <td>Invited Speaker</td>
@@ -49,7 +49,7 @@ title: Program
     </tr>
     <tr style="background-color:#FEF2CB">
       <td>14:00-15:30</td>
-      <td><b>Session 3</b> - Chair</td>
+      <td><b>Session 3</b> </td>
     </tr>
     <tr style="background-color:#B0C4DE">
       <td>Invited Speaker</td>
@@ -73,7 +73,7 @@ title: Program
     </tr>
     <tr style="background-color:#FEF2CB">
         <td>16:00-17:30</td>
-        <td><b>Session 4  </b>- Chair</td>
+        <td><b>Session 4  </b></td>
     </tr>
     <tr>
         <td></td>
@@ -120,7 +120,7 @@ title: Program
   <tbody>
     <tr style="background-color:#FEF2CB">
       <td>9:00  - 10:30   </td>
-      <td><b>Session 5</b> - Chair:</td>
+      <td><b>Session 5</b> </td>
     </tr>
     <tr style="background-color:#B0C4DE">
       <td>Invited Speaker</td>
@@ -145,7 +145,7 @@ title: Program
     </tr>
     <tr style="background-color:#FEF2CB">
       <td> 11:00-12:30</td>
-      <td><b>Session 6</b> - Chair:</td>
+      <td><b>Session 6</b> </td>
     </tr>
     <tr style="background-color:#B0C4DE">
       <td>Invited Speaker</td>
@@ -169,7 +169,7 @@ title: Program
     </tr>
         <tr style="background-color:#FEF2CB">
         <td>14:00-15:30</td>
-        <td><b>Session 7</b> - Chair:</td>
+        <td><b>Session 7</b></td>
     </tr>
     <tr style="background-color:#B0C4DE">
         <td>Invited Speaker</td>
@@ -193,7 +193,7 @@ title: Program
     </tr>
         <tr style="background-color:#FEF2CB">
         <td>16:00-17:30</td>
-        <td><b>Session 8  </b>- Chair:</td>
+        <td><b>Session 8  </b></td>
     </tr>
     <tr>
         <td></td>
@@ -240,7 +240,7 @@ title: Program
   <tbody>
     <tr style="background-color:#FEF2CB">
       <td>9:00  - 10:30   </td>
-      <td><b>Session 9</b> - Chair:</td>
+      <td><b>Session 9</b> </td>
     </tr>
     <tr>
       <td></td>
@@ -276,7 +276,7 @@ title: Program
     </tr>
     <tr style="background-color:#FEF2CB">
       <td> 11:00-12:30</td>
-      <td><b>Session 10</b> - Chair:</td>
+      <td><b>Session 10</b></td>
     </tr>
     <tr style="background-color:#B0C4DE">
       <td>Invited Speaker</td>
