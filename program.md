@@ -17,7 +17,7 @@ title: Program
     </tr>
     <tr>
       <td></td>
-      <td>Ben Greenman: <em>Little Tricky Logic: Misconceptions in the Understanding of LTL </em></td>
+      <td>Ben Greenman: <em>Little Tricky Logic: Misconceptions in the Understanding of LTL </em><a href="/assets/slides/Ben Greenman.pdf" target="_blank"><img class="paperlink" src="/assets/img/slide-img.png" title="slides"></a></td>
     </tr>
     <tr style="background-color:#D8D8D8">
       <td>10:30-11:00</td>
@@ -29,7 +29,7 @@ title: Program
     </tr>
     <tr style="background-color:#B0C4DE">
       <td>Invited Speaker</td>
-      <td><b> Marco Montali: <em>Declarative process management and mining: a killer application for LTLf</em></b></td>
+      <td><b> Marco Montali: <em>Declarative process management and mining: a killer application for LTLf</em></b><a href="/assets/slides/montalimarco.pdf" target="_blank"><img class="paperlink" src="/assets/img/slide-img.png" title="slides"></a></td>
     </tr>
     <tr>
       <td>10 minutes</td>
@@ -37,11 +37,11 @@ title: Program
     </tr>
     <tr>
       <td></td>
-      <td>Martin Leucker: <em> Linear-Time Temporal Logic for Runtime Verification Revisited</em></td>
+      <td>Martin Leucker: <em> Linear-Time Temporal Logic for Runtime Verification Revisited</em><a href="/assets/slides/Martin Leucker.pdf" target="_blank"><img class="paperlink" src="/assets/img/slide-img.png" title="slides"></a></td>
     </tr>
     <tr>
       <td></td>
-      <td>Sarah Winkler:<em> Monitoring Arithmetic Temporal Properties on Finite Traces </em></td>
+      <td>Sarah Winkler:<em> Monitoring Arithmetic Temporal Properties on Finite Traces </em><a href="/assets/slides/Sarah Winkler.pdf" target="_blank"><img class="paperlink" src="/assets/img/slide-img.png" title="slides"></a></td>
     </tr>
     <tr style="background-color:#D8D8D8">
       <td>12:30-14:00</td>
