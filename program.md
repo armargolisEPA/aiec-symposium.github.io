@@ -13,7 +13,7 @@ title: Program
     </tr>
     <tr style="background-color:#B0C4DE">
       <td>Invited Speaker</td>
-      <td><b> Giuseppe De Giacomo: <em>Linear-time Temporal Logics on Finite Traces</em></b></td>
+      <td><b> Giuseppe De Giacomo: <em>Linear-time Temporal Logics on Finite Traces</em></b> <a href="/assets/slides/degiacomo.pdf" target="_blank"><img class="paperlink" src="assets/img/slide-img.png" title="slides"></a>
     </tr>
     <tr>
       <td></td>
