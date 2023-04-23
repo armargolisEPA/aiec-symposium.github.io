@@ -61,11 +61,11 @@ title: Program
     </tr>
     <tr>
         <td></td>
-        <td>Albertao Camacho: <em>Temporal Logic Goal Specifications for Automated Planning </em></td>
+        <td>Albertao Camacho: <em>Temporal Logic Goal Specifications for Automated Planning </em><a href="/assets/slides/acamacho.pdf" target="_blank"><img class="paperlink" src="/assets/img/slide-img.png" title="slides"></a></td>
     </tr>
     <tr>
         <td></td>
-        <td>Toryn Q. Klassen:  <em>LTL and Beyond: Formal Languages for Reward Function Specification in Reinforcement Learning </em></td>
+        <td>Toryn Q. Klassen:  <em>LTL and Beyond: Formal Languages for Reward Function Specification in Reinforcement Learning </em><a href="/assets/slides/Toryn_Klassen.pdf" target="_blank"><img class="paperlink" src="/assets/img/slide-img.png" title="slides"></a></td>
     </tr>
     <tr style="background-color:#D8D8D8">
         <td>15:30-16:00</td>
