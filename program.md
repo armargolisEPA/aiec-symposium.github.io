@@ -264,7 +264,7 @@ title: Program
     </tr>
     <tr>
         <td></td>
-        <td>Nima Motamed: <em>Probabilistic Temporal Logic for Reasoning about Bounded Policies</em></td>
+        <td>Nima Motamed: <em>Probabilistic Temporal Logic for Reasoning about Bounded Policies</em> <a href="/assets/slides/motamed_aaai_ss.pdf" target="_blank"><img class="paperlink" src="/assets/img/slide-img.png" title="slides"></a></td>
     </tr>
     <tr>
         <td></td>
