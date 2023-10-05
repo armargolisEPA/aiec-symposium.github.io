@@ -12,31 +12,17 @@ title: Call for Participation
 <h3>Important Dates</h3>
 <ul>
   <li> TBD  : Paper submission deadline (AoE). </li>
-  <li> TBD <b>February 17, 2023 </b>: Author notification (AoE). </li>
+  <li> TBD  : Author notification (AoE). </li>
 </ul>
 
 <h3>Topics</h3>
 
-Topics of interest range on any use of Temporal Logics on finite traces, including (but not limited to) the following areas:
+Topics of interest range on any use of <b> Artificial Intelligence and Big Data for Environmental Compliance</b>, including (but not limited to) the following areas:
+  
 <ul>
-  <li>AI Planning</li> 
-  <li>Verification and Synthesis</li> 
-  <li>Reinforcement Learning</li> 
-  <li>Automated Reasoning</li> 
-  <li>Knowledge Representation</li> 
-  <li>Multi-Agent Systems</li> 
-  <li>Robotics</li> 
-  <li>Motion and Task Planning </li> 
-  <li>Discrete-Event Control</li> 
-  <li>Workflow Management</li> 
-  <li>Conversational Systems  </li> 
-  <li>Automated Service Composition</li> 
-  <li>Business Process Management</li> 
-  <li>Fintech</li> 
-  <li>Cyber Security</li> 
-  <li>Human computer interaction</li> 
-  <li>Natural Language Processing</li> 
+  <li> <b> Enhancing enforcement capabilities and regulatory effectiveness </b>: Combining administrative datasets on facility characteristics and violation history with machine learning models to predict future violations, target inspections, and reduce enforcement costs. </li> 
+ 
+  <li><b>Improving detection of emissions from vehicles and facilities</b>: Using remote sensing technology, machine learning algorithms, database design, and state of the art policy evaluation methods to study, measure, and reduce emissions. </li> 
+  
+  <li><b>Improving design of environmental regulations</b>: Combining granular (spatial and temporal) pollution and congestion data with machine learning based causal identification techniques to inform the distributional pollution impact of congestion pricing. </li> 
 </ul>
-
-
-
