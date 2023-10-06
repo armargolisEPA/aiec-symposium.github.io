@@ -4,7 +4,73 @@ title: Invited Speakers
 
 ---
 
+Increasing enforcement efficiency  
 
+Presentation 1  
+
+Title: Are the inspections going to “waste”? A national field test of machine learning vs. expert judgement to improve EPA regulatory compliance  
+
+Authors: Katherine Meckel (UC-San Diego), Jesse Buchsbaum (UChicago), Michael Greenstone (UChicago) 
+
+Suggested presenter: Katherine Meckel (UC-San Diego) 
+
+ 
+
+Abstract: Machine learning has the potential to improve targeting of regulatory inspections in theory, but this potential has been untested in practice. We directly test machine learning against human decision-making, first developing a model to predict severe violations of hazardous waste regulation, then conducting a field test of the model’s performance. The inspections chosen by the machine learning model identified 79% more severe violations than those selected by humans. These results provide evidence of the efficiency gains that machine learning can offer in regulatory compliance, highlighting the need to explore the adoption of such tools.  
+
+Presentation 2  
+
+Title: Using Machine Learning Models to Enhance Violation Detection of EPA Regulated Facilities  
+
+Authors: Jesse Buchsbaum, Michael Greenstone, Rajat Kochhar, Olga Rostapshova (UChicago) 
+
+Suggested presenter: Jesse Buchsbaum (University Of Chicago) 
+
+Abstract: A predictive analytics model can make the targeting of inspections more efficient in terms of achieving higher violation discovery rates. We develop an ML model that focuses on violations related to provisions in the Clean Air Act (CAA) and National Pollutant Discharge Elimination System (NPDES). The project leverages extensive data on historical inspection, violation, enforcement, and compliance data to predict where violations are most likely to occur within the large and less inspected universe of EPA regulated facilities.  
+
+Presentation 3  
+
+Title: Improving Methane Emissions Monitoring and Enforcement using Predictive Analytics for Inspection Targeting  
+
+Authors: Thomas Covert, Ludovica Gazze, Michael Greenstone, and Olga Rostapshova  
+
+Suggested presenter: Ludovica Gazze (University of Warwick)  
+
+Abstract: Regulating methane, a greenhouse gas with 80 times the short-term global warming potential of carbon dioxide, is at the forefront of the global agenda to address climate change. In the United States, methane emissions are particularly pernicious at oil and gas (O&G) facilities, from which an estimated 2.3% of gross natural gas production (13 billion kilograms of methane) leaks each year. We partnered with Colorado Department of Public Health and Environment (CDPHE) to build a supervised machine learning model to predict the likelihood that upstream O&G facilities in Colorado would leak natural gas. This model leveraged previously unlinked administrative data, O&G permitting and inspection histories, monthly O&G production data, meteorological conditions, oil and gas prices, and demographic data to predict unauthorized emissions.  Over the last two years, CDPHE has used the ML model output to target inspection sites; consequently, inspectors have observed a substantial increase in the number of emissions events they observed during inspections.  
+
+Presentation 4  
+
+Title: A Machine Learning Approach to Methane Emissions Mitigation in the Oil and Gas Industry  
+
+Authors: Jiayang Wang (University of Texas at Austin), Selvaprabu Nadarajah (University of Illinois at Chicago), Jingfan Wang (Stanford University), Arvind P Ravikumar (University of Texas at Austin) 
+
+Suggested Presenter: Arvind P Ravikumar (University of Texas at Austin) 
+
+Abstract: Reducing methane emissions from the oil and gas sector is a key component of climate policy in the United States. Methane leaks across the supply chain are stochastic and intermittent, with a small number of sites (‘super-emitters’) responsible for a majority of emissions. Thus, cost-effective emissions reduction critically relies on effectively identifying the super-emitters from thousands of well sites and millions of miles of pipelines. Conventional approaches such as walking surveys using optical gas imaging technology are slow and time-consuming. In addition, several variables contribute to the formation of leaks such as infrastructure age, production, weather conditions, and maintenance practices. Here, we develop a machine learning algorithm to predict high-emitting sites that can be prioritized for follow-up repair. Such prioritization can significantly reduce the cost of surveys and increase emissions reductions compared to conventional approaches. Our results show that the algorithm using logistic regression performs the best out of several algorithms. The model achieved a 70% accuracy rate with a 57% recall and a 66% balanced accuracy rate. Compared to the conventional approach, the machine learning model reduced the time to achieve a 50% emissions mitigation target by 42%. Correspondingly, the mitigation cost reduced from $85/t CO2e to $49/t CO2e.  
+
+ 
+
+Session 2: Big Data for Enforcement and Design of environmental regulations  
+
+Presentation 5  
+
+Title: Using Remote Sensing Technology to Reduce Heavy Duty Truck Emissions in California  
+
+Authors: Fiona Burlig (UChicago), Ludovica Gazze (University of Warwick), Michael Greenstone (UChicago), and Olga Rostapshova (UChicago) 
+
+Suggested presenter: Fiona Burlig (UChicago) 
+
+Abstract: The transportation sector accounts for 29 percent of the total GHG emissions in the US. The California Air Resources Board (CARB) piloted an innovative technology, Portable Emissions Acquisition System (PEAQS), that can measure vehicle emissions in real time. This can allow regulators to identify high-emitting trucks and target enforcement actions more effectively. We designed an RCT to assess the impact of this technology to study whether enforcement programs guided by remote sensing technology can cost-effectively improve compliance and reduce emissions. High-emitting trucks were randomly assigned to either the control group or to one of two enforcement interventions: (1) a low-cost compliance documentation intervention targeted at individual trucks, and (2) a high-cost audit intervention targeted at truck fleets. In the low-cost treatment intervention, trucks were informed that they are likely in violation of California’s emissions standards and asked to provide compliance documentation. In the audit treatment, fleets with high-emitting trucks were subjected to comprehensive audits covering their entire truck population, with assured penalties if they do not prove compliance. We have enrolled 4,867 unique trucks in the low-cost documentation intervention and 70 unique fleets in the high-cost audit intervention. Data collection is expected to run for the next year. We also intend to measure changes in vehicle registrations across state borders, to observe the extent to which truck operators may employ regulatory evasion as an unintended consequence of the intervention.  
+
+Presentation 6  
+
+Title: Local Pollution Externalities from Driving: Evidence from Roadway Vehicle Sensors   
+
+Authors: Andrew R. Waxman (University of Texas at Austin), Ruozi Song (World Bank), Rajat Kochhar (University of Chicago), Antonio M. Bento (University of Southern California) 
+
+Suggested Presenter: Ruozi Song (World Bank) 
+
+Abstract: This paper seeks to understand the localized effect of automobile congestion on air pollution. We causally identify this effect by leveraging air pollution sensors on Google Street View cars, combining the pollution readings with fine grain speed and vehicle density observations on Los Angeles Highways.  Our results indicate that pollution is highest at very low (<20km/h) and very high speeds (>60km/h), a result driven by lowered engine efficiency. We show that higher pollution occurs at very low and very high speeds due to lowered engine efficiency. Given the success to date of reducing pollution via tailpipe emission standards, we show that the magnitude of our effects points to the need to focus more attention by policymakers on vehicle speeds for further mitigation of health impacts from vehicle emissions. Our results have important implications for understanding human health effects of anti-congestion policies, speed limits and point to a need to better regulate sources of fine particulate matter pollution from tires and brakes.  
 <h2 id="rance">Invited Speaker: <em><a href="https://www.cs.umd.edu/people/wcleavel">Rance Cleaveland</a></em></h2>
 <p><img src="/assets/img/rance.jpg" alt="rance" class="img-responsive" style="max-width: 40%; float: left; border-radius: 3%; margin-right: 25px" /></p>
 
